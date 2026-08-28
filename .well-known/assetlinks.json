@@ -1,0 +1,10 @@
+﻿[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.jskim963.twa",
+    "sha256_cert_fingerprints": [
+      "15:89:3B:A7:3E:E6:D5:FF:E2:88:E4:DB:BF:E7:5C:22:4F:4A:23:AD:1D:C0:91:13:BF:52:35:58:A7:4F:B0:44"
+    ]
+  }
+}]
